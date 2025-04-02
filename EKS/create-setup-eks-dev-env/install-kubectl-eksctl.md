@@ -10,7 +10,7 @@
 ###### STEP 2: INSTALL KUBECTL AND EKSCTL
 sudo yum install git -y
 
-wget https://raw.githubusercontent.com/awanmbandi/Docker-Compose-Swarm-K8S-EKS-ECS/refs/heads/main/EKS/create-setup-dev-env/kubectl-eksctl-install.sh
+wget https://raw.githubusercontent.com/awanmbandi/Docker-Compose-Swarm-K8S-EKS-ECS/refs/heads/main/EKS/create-setup-eks-dev-env/kubectl-eksctl-install.sh 
 
 bash kubectl-eksctl-install.sh
 
